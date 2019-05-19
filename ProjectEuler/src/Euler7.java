@@ -1,0 +1,2 @@
+public class Euler7 {
+}
